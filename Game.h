@@ -21,6 +21,8 @@ public:
 	void gameOver();
 	void gameClear();
 
+	void RunBattle();
+
 private:
 	Scene scene;
 	bool isRunning;
